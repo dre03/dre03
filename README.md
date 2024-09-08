@@ -12,12 +12,5 @@ I'm a passionate software engineer from Indonesia 🇮🇩, specializing in both
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-apriyana-b758a4226/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ndre_apri)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andre.andreapriyana.7)
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/dre03">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZakiRaihan4636&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZakiRaihan4636&layout=compact&theme=algolia"/>
-
 </a>
 </p>
